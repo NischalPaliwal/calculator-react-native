@@ -1,5 +1,6 @@
 React Native Calculator
 - A simple calculator app built with React Native.
+
 Features:
 1. Basic arithmetic operations: addition, subtraction, multiplication, division
 2. Decimal support
